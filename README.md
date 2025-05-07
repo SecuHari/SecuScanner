@@ -1,6 +1,9 @@
 # SecuScanner 🔍
 
+> ⚠️ **Disclaimer**: This tool is intended for educational and ethical cybersecurity purposes only. The developer (**SecuHari**) is not responsible for any misuse or illegal activity carried out using this tool.
+
 **SecuScanner** is a hacker-style CLI tool for scanning websites and identifying exposed API keys, tokens, and sensitive data.
+
 
 ## 🚀 Features
 
