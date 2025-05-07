@@ -15,7 +15,7 @@ BANNER = f"""{Fore.GREEN}
   ___) |  __/  __/ |  | |_| | (_) \__ \ |_| | |  \__ \  __/ |   
  |____/ \___|\___|_|   \____|\___/|___/\__,_|_|  |___/\___|_|    
 
-            {Fore.CYAN}SecuScanner v1.0 - Website Secret Key Scanner
+            {Fore.CYAN}Secu v1.0 - Website Secret Key Scanner
             {Style.RESET_ALL}"""
 
 def load_patterns():
