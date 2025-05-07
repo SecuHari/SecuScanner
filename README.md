@@ -16,9 +16,11 @@
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/your-username/SecuScanner.git
+
+git clone https://github.com/SecuHari/SecuScanner.git
 cd SecuScanner
 pip install -r requirements.txt
+
 ```
 
 ## 💡 Usage
